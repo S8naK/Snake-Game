@@ -1,1 +1,1 @@
-# Snake-Game
+A snake game in Java using the awt and swing graphics library. Use the arrow keys to move the snake.
